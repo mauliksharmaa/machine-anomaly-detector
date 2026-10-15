@@ -7,6 +7,10 @@ The system combines ESP32-based sensor acquisition, MQTT messaging, a FastAPI ba
 
 > **Project status:** Designed for local development and hardware/simulator testing. Live hardware operation and production deployment should be validated in the target environment before use.
 
+Demo Dashboard :- https://machine-anomaly-detector-demo-only-with-maulik.streamlit.app/
+
+> **This only represents how final dashboard will look like and not contains actual readings.
+
 ## Overview
 
 Unexpected machine vibration, rising temperature, and abnormal electrical current can indicate developing faults. This project demonstrates how sensor data can be collected continuously, analyzed for unusual behavior, and presented through a dashboard for monitoring and investigation.
