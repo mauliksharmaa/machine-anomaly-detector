@@ -9,7 +9,24 @@ The system combines ESP32-based sensor acquisition, MQTT messaging, a FastAPI ba
 
 Demo Dashboard :- https://machine-anomaly-detector-demo-only-with-maulik.streamlit.app/
 
-> **This only represents how final dashboard will look like and not contains actual readings.
+> This only represents how final dashboard will look like and not contains actual readings.
+
+
+## Dashboard Screenshots
+
+### Motor ON
+![Motor ON Dashboard](images/motor_on.png)
+
+### Motor OFF
+![Motor OFF Dashboard](images/motor_off.png)
+
+### Recent Events
+![Recent Events](images/recents.png)
+
+### Anomaly Detection
+![Anomaly Detection](images/anomaly_detected.png)
+
+**Note:** These screenshots are of real working dashboards
 
 ## Overview
 
