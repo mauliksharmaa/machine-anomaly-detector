@@ -199,7 +199,7 @@ Example sensor message:
   "v": 5.0,
   "i": 0.32
 }
-
+```
 
 The firmware and backend must agree on topic names, payload format, and measurement units.
 
