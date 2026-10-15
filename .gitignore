@@ -1,0 +1,26 @@
+# Local credentials
+secrets.h
+**/secrets.h
+
+# Python files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Editor and test cache
+.vscode/
+.pytest_cache/
+.mypy_cache/

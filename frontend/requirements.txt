@@ -1,0 +1,5 @@
+# Frontend-only extras. numpy/pydantic already come from backend\requirements.txt (same venv).
+streamlit>=1.37
+requests
+websocket-client
+pandas
